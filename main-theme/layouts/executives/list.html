@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<!-- teachers -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!-- teacher category list -->
+        <ul class="list-inline text-center filter-controls mb-5">
+          <li class="list-inline-item m-3 text-uppercase active" data-filter="all">Chapter Members</li>
+          {{ $categories := slice }}
+          {{ range .Data.Pages }}
+            {{ $categories = $categories | append .Params.Designation }}
+          {{ end }}
+          <!-- {{ range ( $categories | uniq ) }}
+            <li class="list-inline-item m-3 text-uppercase" data-filter="{{ . | urlize }}">{{ . | humanize }}</li>
+          {{ end }} -->
+        </ul>
+      </div>
+    </div>
+    <!-- teacher list -->
+    <div class="row filtr-container">
+      <!-- teacher -->
+      {{ range sort .Data.Pages ".Params.Order" }}
+      <div data-category="{{ .Params.Designation | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+        {{ .Render "executives" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /teachers -->
+
+{{ end }}
