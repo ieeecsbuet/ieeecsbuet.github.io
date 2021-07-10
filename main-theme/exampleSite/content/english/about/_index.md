@@ -11,13 +11,6 @@ image: "images/banner/banner_0.jpg"
 
 ## ABOUT US
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+IEEE Computer Society is the biggest international organization that connects people with interest in Computer Science and Engineering worldwide. It is the premier source for information, inspiration, and collaboration in Computer Science and Engineering. Connecting members worldwide, the Computer Society empowers the people who advance technology by delivering tools for individuals at all stages of their professional careers. Our trusted resources include international conferences, peer-reviewed publications, a robust digital library, globally recognized standards, and continuous learning opportunities.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+IEEE BUET CS Student Branch chapter is a part of IEEE Computer Society and strives to achieve international height as the face of IEEE CS in Bangladesh. Since July 15 of 2019, we have been working to educate our students in various sectors of computer science and engineering, hold large scale competitions for them to improve and sharpen each other’s skills. We have held numerous workshops and competitions. Some notable workshops - Introduction to Web Development Using Django, Towards IEEEXtreme: Hear from the Experts, Workshop on Java, cyber security etc. Some competitions - Roadway to IEEEXtreme: Online Programming Contest, and our upcoming CTF Super League. We are a big family, and we welcome you to join us in the colorful and attractive world of Computer Science and Engineering.

@@ -8,30 +8,33 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700");
 @font-face {
-  font-family: 'futura-bold';
-  src: url("../fonts/Futura-Bold.woff") format("woff");
+  font-family: 'SF-Pro';
+  src: url("../fonts/sf-pro.otf") format("opentype");
   font-weight: normal;
   font-style: normal; }
 
 body {
   line-height: 1.2;
-  font-family: "Poppins", sans-serif;
+  font-family: "Work Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 1.0rem;
   color: #5c5c77; }
 
 p, .paragraph {
   font-weight: 400;
   color: #5c5c77;
-  font-size: 15px;
+  font-size: 1.1rem;
   line-height: 1.9;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Work Sans", sans-serif; }
+
+strong {
+  font-size: 1.15rem; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
-  font-family: "futura-bold";
+  font-family: "SF-Pro";
   font-weight: 700;
   line-height: 1.2; }
 
@@ -46,29 +49,29 @@ h2, .h2 {
     h2, .h2 {
       font-size: 30px; } }
 h3, .h3 {
-  font-size: 25px; }
+  font-size: 35px; }
   @media (max-width: 575px) {
     h3, .h3 {
       font-size: 20px; } }
 h4, .h4 {
-  font-size: 20px; }
+  font-size: 30px; }
   @media (max-width: 575px) {
     h4, .h4 {
       font-size: 18px; } }
 h5, .h5 {
-  font-size: 18px; }
+  font-size: 25px; }
   @media (max-width: 575px) {
     h5, .h5 {
       font-size: 16px; } }
 h6, .h6 {
-  font-size: 16px; }
+  font-size: 20px; }
   @media (max-width: 575px) {
     h6, .h6 {
       font-size: 14px; } }
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Work Sans", sans-serif;
   text-transform: capitalize;
   padding: 15px 40px;
   border-radius: 0;
@@ -230,7 +233,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #1a1a37;
+    background: #15151a;
     opacity: .8; }
 
 .outline-0 {
@@ -243,7 +246,7 @@ a h4:hover {
   background: #ffbc3b !important; }
 
 .bg-secondary {
-  background: #1a1a37 !important; }
+  background: #15151a !important; }
 
 .bg-gray {
   background: #f8f8f8; }
@@ -267,7 +270,7 @@ a h4:hover {
   color: #1e1e4b !important; }
 
 .font-secondary {
-  font-family: "futura-bold"; }
+  font-family: "SF-Pro"; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -452,10 +455,10 @@ textarea.form-control {
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
-      background: #1a1a37; } }
+      background: #15151a; } }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: #1a1a37; } }
+    background: #15151a; } }
 
 .navbar-nav {
   padding-left: 50px;
@@ -463,9 +466,9 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
-      background: #1a1a37; } }
+      background: #15151a; } }
 .nav-bg {
-  background-color: #1a1a37; }
+  background-color: #15151a; }
 
 .nav-item {
   margin: 0 15px;
@@ -549,7 +552,7 @@ link:focus,
   color: #1e1e4b;
   transition: .2s ease;
   text-transform: capitalize;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Work Sans", sans-serif; }
   @media (max-width: 991px) {
     .navbar .dropdown-item {
       text-align: center; } }
@@ -710,7 +713,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #ffbc3b;
-  font-family: "futura-bold";
+  font-family: "SF-Pro";
   text-align: center;
   padding: 10px;
   color: #fff;

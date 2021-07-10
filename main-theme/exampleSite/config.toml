@@ -119,11 +119,6 @@ copyright = "Copyright &copy; 2021 IEEE CS BUET SB | Theme by [themefisher](http
 # main menu
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 1
-
-[[Languages.en.menu.main]]
 name = "Executives"
 url = "executives"
 weight = 2
@@ -131,12 +126,12 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "event"
 url = "event"
-weight = 3
+weight = 1
 
 [[Languages.en.menu.main]]
 name = "About"
 url = "about"
-weight = 4
+weight = 3
 
 
 # footer menu
@@ -150,6 +145,5 @@ name = "Events"
 url = "event"
 
 [[Languages.en.menu.footer]]
-name = "Blogs"
-url = "blog"
-
+name = "About"
+url = "about"

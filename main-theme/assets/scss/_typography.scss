@@ -1,9 +1,10 @@
 /*  typography */
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700');
+
 
 @font-face {
-  font-family: 'futura-bold';
-  src: url('../fonts/Futura-Bold.woff') format('woff');
+  font-family: 'SF-Pro';
+  src: url('../fonts/sf-pro.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -12,16 +13,20 @@ body {
   line-height: 1.2;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 1.0rem;
   color: $text-color;
 }
 
 p, .paragraph {
   font-weight: 400;
   color: $text-color;
-  font-size: 15px;
+  font-size: 1.1rem;
   line-height: 1.9;
   font-family: $primary-font;
+}
+
+strong {
+  font-size: 1.15rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -46,28 +51,28 @@ h2, .h2{
 }
 
 h3, .h3{
-  font-size: 25px;
+  font-size: 35px;
   @include mobile {
     font-size: 20px;
   }
 }
 
 h4, .h4{
-  font-size: 20px;
+  font-size: 30px;
   @include mobile {
     font-size: 18px;
   }
 }
 
 h5, .h5{
-  font-size: 18px;
+  font-size: 25px;
   @include mobile {
     font-size: 16px;
   }
 }
 
 h6, .h6{
-  font-size: 16px;
+  font-size: 20px;
   @include mobile {
     font-size: 14px;
   }
