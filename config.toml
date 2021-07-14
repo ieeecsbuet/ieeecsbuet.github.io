@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "http://ieeecsbuet.web.app"
 title = "IEEE CS | BUET Student Branch Chapter"
 theme = "theme"
 themesDir = "./"
