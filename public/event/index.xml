@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Events on IEEE CS | BUET Student Branch Chapter</title>
+    <link>https://ieeecsbuet.web.app/event/</link>
+    <description>Recent content in Our Events on IEEE CS | BUET Student Branch Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 IEEE CS BUET SB | Theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ieeecsbuet.web.app/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capture The Flag: Super League</title>
+      <link>https://ieeecsbuet.web.app/event/ctf-super-league/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ieeecsbuet.web.app/event/ctf-super-league/</guid>
+      <description>About Event A two-day workshop, followed by a competition with an exciting prize pool!</description>
+    </item>
+    
+    <item>
+      <title>Applying for Higher Studies: Undergrad and Beyond</title>
+      <link>https://ieeecsbuet.web.app/event/apply-for-higher-studies/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ieeecsbuet.web.app/event/apply-for-higher-studies/</guid>
+      <description>About Event After completing graduation, a large number of our students desire to pursue higher studies abroad.</description>
+    </item>
+    
+    <item>
+      <title>Workshop On Java</title>
+      <link>https://ieeecsbuet.web.app/event/workshop-on-java/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ieeecsbuet.web.app/event/workshop-on-java/</guid>
+      <description>About Event This event was dedicated to enlighten people about the basic knowledge of JAVA and give them a boost to their learning process with hands-on experience.</description>
+    </item>
+    
+  </channel>
+</rss>

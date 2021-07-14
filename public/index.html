@@ -1,89 +1,440 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Firebase Hosting</title>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>IEEE CS | BUET Student Branch Chapter</title>
 
-    <!-- update the version number as needed -->
-    <script defer src="/__/firebase/8.7.1/firebase-app.js"></script>
-    <!-- include only the Firebase features as you need -->
-    <script defer src="/__/firebase/8.7.1/firebase-auth.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-database.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-firestore.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-functions.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-messaging.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-storage.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-analytics.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-remote-config.js"></script>
-    <script defer src="/__/firebase/8.7.1/firebase-performance.js"></script>
-    <!-- 
-      initialize the SDK after all desired features are loaded, set useEmulator to false
-      to avoid connecting the SDK to running emulators.
-    -->
-    <script defer src="/__/firebase/init.js?useEmulator=true"></script>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="This is meta description">
+  
+  <meta name="author" content="IEEE Computer Society BUET Student Branch Chapter">
+  <meta name="generator" content="Hugo 0.74.3" />
+  <!-- multilingual SEO optimizations -->
+  
 
-    <style media="screen">
-      body { background: #ECEFF1; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
-      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
-      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
-      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
-      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
-      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
-      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
-      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
-      @media (max-width: 600px) {
-        body, #message { margin-top: 0; background: white; box-shadow: none; }
-        body { border-top: 16px solid #ffa100; }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="message">
-      <h2>Welcome</h2>
-      <h1>Firebase Hosting Setup Complete</h1>
-      <p>You're seeing this because you've successfully setup Firebase Hosting. Now it's time to go build something extraordinary!</p>
-      <a target="_blank" href="https://firebase.google.com/docs/hosting/">Open Hosting Documentation</a>
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/plugins/slick/slick.css">
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/plugins/animate/animate.css">
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/plugins/venobox/venobox.css">
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/plugins/themify-icons/themify-icons.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://ieeecsbuet.web.app/scss/style.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://ieeecsbuet.web.app/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://ieeecsbuet.web.app/images/favicon.png" type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://ieeecsbuet.web.app/images/preloader.gif" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="fixed-top header">
+  
+  
+  <div class="top-header py-2 bg-white">
+    <div class="container">
+      <div class="row no-gutters align-items-center">
+        <div class="col-lg-4 text-center text-lg-left">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://www.facebook.com/ieeebuetcs/"><i class="ti-facebook"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-github"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-linkedin"></i></a></li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-8 text-center text-lg-right">
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a class="text-color mr-3" href="tel:&#43;211234565523"><strong>CALL : </strong> &#43;211234565523</a></li>
+            <li class="list-inline-item">
+              <a class="text-color" href="mailto:csbuetieee@gmail.com"><strong>EMAIL : </strong> csbuetieee@gmail.com</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
-    <p id="load">Firebase SDK Loading&hellip;</p>
+  </div>
+  
+  
+  <div class="navigation w-100  top-hider ">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <a class="navbar-brand" href="/">
+          <img class="img-fluid" style="width: 150px; height: auto;" src="https://ieeecsbuet.web.app/images/logo.png" alt="IEEE CS | BUET Student Branch Chapter"></a>
+        <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const loadEl = document.querySelector('#load');
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-        // // The Firebase SDK is initialized and available here!
-        //
-        // firebase.auth().onAuthStateChanged(user => { });
-        // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
-        // firebase.firestore().doc('/foo/bar').get().then(() => { });
-        // firebase.functions().httpsCallable('yourFunction')().then(() => { });
-        // firebase.messaging().requestPermission().then(() => { });
-        // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
-        // firebase.analytics(); // call to activate
-        // firebase.analytics().logEvent('tutorial_completed');
-        // firebase.performance(); // call to activate
-        //
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="https://ieeecsbuet.web.app">Home</a>
+            </li>
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://ieeecsbuet.web.app/event">event</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://ieeecsbuet.web.app/executives">Executives</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://ieeecsbuet.web.app/about">About</a>
+            </li>
+            
+            
+          </ul>
 
-        try {
-          let app = firebase.app();
-          let features = [
-            'auth', 
-            'database', 
-            'firestore',
-            'functions',
-            'messaging', 
-            'storage', 
-            'analytics', 
-            'remoteConfig',
-            'performance',
-          ].filter(feature => typeof app[feature] === 'function');
-          loadEl.textContent = `Firebase SDK loaded with ${features.join(', ')}`;
-        } catch (e) {
-          console.error(e);
-          loadEl.textContent = 'Error loading the Firebase SDK, check the console.';
-        }
-      });
-    </script>
-  </body>
+          
+          
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+
+
+
+
+
+
+<section class="hero-section overlay bg-cover" data-background="https://ieeecsbuet.web.app/images/banner/banner-1.jpg">
+  <div class="container">
+    <div class="hero-slider">
+      
+      
+      <div class="hero-slider-item">
+        <div class="row">
+          <div class="col-md-8">
+            <h1 class="text-white" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3"
+              data-animation-in="fadeInRight" data-delay-in=".1">IEEE Computer Society BUET Student Branch Chapter</h1>
+            <p class="text-muted mb-4" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeInRight" data-delay-in=".4">Welcome to the website of the BUET Student Branch chapter of the IEEE Computer Society - the biggest international organization that connects people with interest in Computer Science and Engineering worldwide</p>
+            
+            <a href="https://ieeecsbuet.web.app/contact" class="btn btn-primary" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeInRight" data-delay-in=".7">Apply now</a>
+            
+          </div>
+        </div>
+      </div>
+      
+      <div class="hero-slider-item">
+        <div class="row">
+          <div class="col-md-8">
+            <h1 class="text-white" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3"
+              data-animation-in="fadeInRight" data-delay-in=".1">Visit Our Facebook Page to Stay Updated</h1>
+            <p class="text-muted mb-4" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeInRight" data-delay-in=".4">Visit our Facebook Page to stay updated with our new events, competitions and much more!</p>
+            
+            <a href="https://www.facebook.com/ieeebuetcs/" class="btn btn-primary" data-animation-out="fadeOutRight" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeInRight" data-delay-in=".7">Visit Facebook</a>
+            
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="bg-gray overflow-md-hidden">
+  <div class="container-fluid p-0">
+    <div class="row no-gutters">
+      <div class="col-xl-4 col-lg-5 align-self-end">
+        <img class="img-fluid w-100" src="https://ieeecsbuet.web.app/images/banner/banner-feature.png" alt="banner-feature">
+      </div>
+      <div class="col-xl-8 col-lg-7">
+        <div class="row feature-blocks bg-gray justify-content-between">
+          
+          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+            <i class="ti-bag mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+            <h3 class="mb-xl-4 mb-lg-3 mb-4">Meet Professionals</h3>
+            <p>Sharpen your skills through a huge network of renowned researchers and computing professionals.</p>
+          </div>
+          
+          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+            <i class="ti-blackboard mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+            <h3 class="mb-xl-4 mb-lg-3 mb-4">Career Programs</h3>
+            <p>Get into mentorship programs and career development webinars, share your research and enrich yourself with the latest knowledge.</p>
+          </div>
+          
+          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+            <i class="ti-medall mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+            <h3 class="mb-xl-4 mb-lg-3 mb-4">Events &amp; Competitions</h3>
+            <p>Participate in various competitions and win exciting awards from professional chapters around the world.</p>
+          </div>
+          
+          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+            <i class="ti-world mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+            <h3 class="mb-xl-4 mb-lg-3 mb-4">International Collaboration</h3>
+            <p>Spread inspiration, collaborate with other representatives from all over the world, and become a leader.</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6 order-2 order-md-1">
+        <h2 class="section-title">About Our Chapter</h2>
+        <p>IEEE BUET CS Student Branch chapter is a part of the IEEE Computer Society and strives to achieve international height as the face of IEEE CS in Bangladesh. Since July 15 of 2019, we have been working to educate our students in various sectors of computer science and engineering, hold large scale competitions for them to improve and sharpen each other’s skills.</p>
+        
+        
+        <a href="https://ieeecsbuet.web.app/about" class="btn btn-outline-primary">Learn more</a>
+        
+        
+      </div>
+      
+      <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
+        <img class="img-fluid w-100" src="https://ieeecsbuet.web.app/images/banner/banner_0.jpg" alt="about image">
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">Upcoming Events</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="/event" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">See all</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      
+      
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        <div class="card border-0 rounded-0 hover-shadow">
+  <div class="card-img position-relative">
+    <img class="card-img-top rounded-0" src="/images/events/ctf-super-league.jpg" alt="Capture The Flag: Super League">
+    <div class="card-date"><span>02</span><br>Jul</div>
+  </div>
+  <div class="card-body">
+    
+    <p><i class="ti-location-pin text-primary mr-2"></i>Online</p>
+    <h4 class="card-title"><a href="https://ieeecsbuet.web.app/event/ctf-super-league/">Capture The Flag: Super League</a></h4>
+  </div>
+</div>
+      </div>
+      
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        <div class="card border-0 rounded-0 hover-shadow">
+  <div class="card-img position-relative">
+    <img class="card-img-top rounded-0" src="/images/events/applying-hs.jpg" alt="Applying for Higher Studies: Undergrad and Beyond">
+    <div class="card-date"><span>15</span><br>Apr</div>
+  </div>
+  <div class="card-body">
+    
+    <p><i class="ti-location-pin text-primary mr-2"></i>Online</p>
+    <h4 class="card-title"><a href="https://ieeecsbuet.web.app/event/apply-for-higher-studies/">Applying for Higher Studies: Undergrad and Beyond</a></h4>
+  </div>
+</div>
+      </div>
+      
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        <div class="card border-0 rounded-0 hover-shadow">
+  <div class="card-img position-relative">
+    <img class="card-img-top rounded-0" src="/images/events/workshop-on-java.jpg" alt="Workshop On Java">
+    <div class="card-date"><span>18</span><br>Mar</div>
+  </div>
+  <div class="card-body">
+    
+    <p><i class="ti-location-pin text-primary mr-2"></i>Online</p>
+    <h4 class="card-title"><a href="https://ieeecsbuet.web.app/event/workshop-on-java/">Workshop On Java</a></h4>
+  </div>
+</div>
+      </div>
+      
+    </div>
+    
+    <div class="row">
+      <div class="col-12 text-center">
+        <a href="/event" class="btn btn-sm btn-outline-primary d-sm-none d-inline-block">See all</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<footer>
+  
+  <div class="footer bg-footer section border-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          
+          <a class="logo-footer" href="/"><img class="img-fluid mb-4" src="https://ieeecsbuet.web.app/images/logo.png" alt="IEEE CS | BUET Student Branch Chapter"></a>
+          <ul class="list-unstyled">
+            <li class="mb-4">Visit Us:  <br> Bangladesh University of Engineering &amp; Technology  </li>
+            <li class="mb-4">Email Us:  <br> <a href="mailto:csbuetieee@gmail.com">csbuetieee@gmail.com</a>    </li>
+            <li class="mb-4">Call Us:   <br> +211234565523   </li>
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+        </div>
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+        </div>
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">Navigation</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://ieeecsbuet.web.app/about">About</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://ieeecsbuet.web.app/event">Events</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://ieeecsbuet.web.app/executives">Executives</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="copyright py-4 bg-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7 text-sm-left text-center">
+          <p class="mb-0">Copyright © 2021 IEEE CS BUET SB | Theme by <a href="https://themefisher.com">themefisher</a></p>
+        </div>
+        <div class="col-sm-5 text-sm-right text-center">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.facebook.com/ieeebuetcs/"><i class="ti-facebook text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-github text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-linkedin text-primary"></i></a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Google Map API -->
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+
+
+<!-- JS Plugins -->
+
+<script src="https://ieeecsbuet.web.app/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://ieeecsbuet.web.app/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://ieeecsbuet.web.app/plugins/slick/slick.min.js"></script>
+
+<script src="https://ieeecsbuet.web.app/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://ieeecsbuet.web.app/plugins/filterizr/jquery.filterizr.min.js"></script>
+
+<script src="https://ieeecsbuet.web.app/plugins/google-map/gmap.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://ieeecsbuet.web.app/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+
 </html>
