@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on IEEE CS | BUET Student Branch Chapter</title>
-    <link>https://ieeecsbuet.github.io/about/</link>
+    <link>https://ieeecsbuet.web.app/about/</link>
     <description>Recent content in About Us on IEEE CS | BUET Student Branch Chapter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 IEEE CS BUET SB | Theme by [themefisher](https://themefisher.com)</copyright>
     
-	<atom:link href="https://ieeecsbuet.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ieeecsbuet.web.app/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
