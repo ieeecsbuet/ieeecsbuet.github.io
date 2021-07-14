@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ieeecsbuet.web.app"
+baseURL = "https://ieeecsbuet.github.io"
 title = "IEEE CS | BUET Student Branch Chapter"
 theme = "theme"
 themesDir = "./"
