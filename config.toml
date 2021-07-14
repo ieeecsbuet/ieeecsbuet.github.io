@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
 title = "IEEE CS | BUET Student Branch Chapter"
-theme = "main-theme"
-themesDir = "../.."
-publishDir = "../../public/"
+theme = "theme"
+themesDir = "./"
+publishDir = "./public/"
 # post pagination
 paginate = "6"
 # post excerpt
