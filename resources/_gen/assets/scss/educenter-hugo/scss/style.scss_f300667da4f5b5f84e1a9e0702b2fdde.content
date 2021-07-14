@@ -163,18 +163,6 @@ body {
   background: #ffcd6e;
   color: #fff; }
 
-/* preloader */
-.preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #FFDC11;
-  z-index: 999999;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
 
 ol,
 ul {

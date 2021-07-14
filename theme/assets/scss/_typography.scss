@@ -1,13 +1,6 @@
 /*  typography */
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700');
-
-
-@font-face {
-  font-family: 'SF-Pro';
-  src: url('../fonts/sf-pro.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Lexend:300,400,500,600,700,800');
 
 body {
   line-height: 1.2;
@@ -37,42 +30,42 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1, .h1{
-  font-size: 60px;
+  font-size: 40px;
   @include mobile {
     font-size: 45px;
   }
 }
 
 h2, .h2{
-  font-size: 40px;
+  font-size: 35px;
   @include mobile {
     font-size: 30px;
   }
 }
 
 h3, .h3{
-  font-size: 35px;
+  font-size: 30px;
   @include mobile {
     font-size: 20px;
   }
 }
 
 h4, .h4{
-  font-size: 30px;
+  font-size: 25px;
   @include mobile {
     font-size: 18px;
   }
 }
 
 h5, .h5{
-  font-size: 25px;
+  font-size: 20px;
   @include mobile {
     font-size: 16px;
   }
 }
 
 h6, .h6{
-  font-size: 20px;
+  font-size: 15px;
   @include mobile {
     font-size: 14px;
   }

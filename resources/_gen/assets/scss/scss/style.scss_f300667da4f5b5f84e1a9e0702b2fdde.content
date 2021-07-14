@@ -9,12 +9,7 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700");
-@font-face {
-  font-family: 'SF-Pro';
-  src: url("../fonts/sf-pro.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal; }
-
+@import url("https://fonts.googleapis.com/css?family=Lexend:300,400,500,600,700,800");
 body {
   line-height: 1.2;
   font-family: "Work Sans", sans-serif;
@@ -34,37 +29,37 @@ strong {
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
-  font-family: "SF-Pro";
+  font-family: "Lexend";
   font-weight: 700;
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 60px; }
+  font-size: 40px; }
   @media (max-width: 575px) {
     h1, .h1 {
       font-size: 45px; } }
 h2, .h2 {
-  font-size: 40px; }
+  font-size: 35px; }
   @media (max-width: 575px) {
     h2, .h2 {
       font-size: 30px; } }
 h3, .h3 {
-  font-size: 35px; }
+  font-size: 30px; }
   @media (max-width: 575px) {
     h3, .h3 {
       font-size: 20px; } }
 h4, .h4 {
-  font-size: 30px; }
+  font-size: 25px; }
   @media (max-width: 575px) {
     h4, .h4 {
       font-size: 18px; } }
 h5, .h5 {
-  font-size: 25px; }
+  font-size: 20px; }
   @media (max-width: 575px) {
     h5, .h5 {
       font-size: 16px; } }
 h6, .h6 {
-  font-size: 20px; }
+  font-size: 15px; }
   @media (max-width: 575px) {
     h6, .h6 {
       font-size: 14px; } }
@@ -147,19 +142,6 @@ body {
 ::selection {
   background: #ffcd6e;
   color: #fff; }
-
-/* preloader */
-.preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #FFDC11;
-  z-index: 999999;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
 
 ol,
 ul {
@@ -270,7 +252,7 @@ a h4:hover {
   color: #1e1e4b !important; }
 
 .font-secondary {
-  font-family: "SF-Pro"; }
+  font-family: "Lexend"; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -713,7 +695,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #ffbc3b;
-  font-family: "SF-Pro";
+  font-family: "Lexend";
   text-align: center;
   padding: 10px;
   color: #fff;

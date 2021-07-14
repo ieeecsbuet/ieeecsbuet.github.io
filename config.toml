@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ieeecsbuet.web.app"
+baseURL = "https://ieeecsbuet.github.io"
 title = "IEEE CS | BUET Student Branch Chapter"
 theme = "theme"
 themesDir = "./"
@@ -58,24 +58,13 @@ google_analitycs_id = "" # your id
 # top header
 top_header = true
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
-
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
 # cookies
 [params.cookies]
 enable = true
 expire_days = 2
   
 ############################# social site ########################
+
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
@@ -84,7 +73,7 @@ link = "https://www.facebook.com/ieeebuetcs/"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.github.com/ieeecsbuet/"
 
 [[params.social]]
 title = "linkedin"
