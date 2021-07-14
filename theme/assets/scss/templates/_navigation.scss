@@ -11,6 +11,7 @@
 }
 
 .navigation {
+  color: $black;
   background: linear-gradient(to right, transparent 50%, $primary-color 50%);
   transition: .2s ease;
 
@@ -42,7 +43,8 @@
 .nav-item {
   .nav-link {
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: bold;
+    font-size: 1.05rem;
   }
 
   margin: 0 15px;
@@ -114,6 +116,7 @@ link:focus,
     }
 
     &-menu {
+      color: white;
       box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);
       border-bottom: 5px solid $primary-color;
       padding: 15px;
@@ -146,13 +149,14 @@ link:focus,
 
     &-item {
       position: relative;
-      color: $text-color-dark;
+      color: white;
       transition: .2s ease;
       text-transform: capitalize;
       font-family: $primary-font;
 
       @include desktop {
         text-align: center;
+        color: white;
       }
 
       &:not(:last-child) {

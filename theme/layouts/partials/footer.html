@@ -8,9 +8,9 @@
           <!-- logo -->
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
           <ul class="list-unstyled">
-            <li class="mb-4">Visit Us:  <br> {{ site.Params.address | markdownify }}  </li>
-            <li class="mb-4">Email Us:  <br> {{ site.Params.email | markdownify }}    </li>
-            <li class="mb-4">Call Us:   <br> {{ site.Params.mobile | markdownify }}   </li>
+            <li class="mb-4"><b>Visit Us:</b>  <br> {{ site.Params.address | markdownify }}  </li>
+            <li class="mb-4"><b>Email Us:</b>  <br> {{ site.Params.email | markdownify }}    </li>
+            <li class="mb-4"><b>Call Us: </b>  <br> {{ site.Params.mobile | markdownify }}   </li>
           </ul>
         </div>
         <!-- links -->
@@ -22,7 +22,7 @@
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "links" }}</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.footer }}
-            <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+            <li class="mb-3"><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
           </ul>
         </div>
@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-7 text-sm-left text-center">
-          <p class="mb-0">{{ site.Params.copyright | markdownify }}</p>
+          <p class="mb-0" style="color: grey;">{{ site.Params.copyright | markdownify }}</p>
         </div>
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">
@@ -48,11 +48,6 @@
   </div>
 </footer>
 <!-- /footer -->
-
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
-{{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}

@@ -1,7 +1,6 @@
 <div class="card border-0 rounded-0 hover-shadow mb-5">
-  <div style="height: 80%; width: auto;">
-    <img class="card-img-top rounded-0" style="object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-  </div>
+  <img class="card-img-top rounded-0" style="object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+
   <div class="card-body">
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
     <ul class="list-inline">

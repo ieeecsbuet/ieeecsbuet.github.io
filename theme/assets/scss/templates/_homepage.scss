@@ -159,56 +159,10 @@
   bottom: 0;
   right: 0;
 }
-
 /* /teacher */
 
-/* footer */
-.newsletter {
-  background-image: linear-gradient(to right, transparent 50%, $primary-color 50%);
-  margin-bottom: -170px;
-  position: relative;
-  z-index: 1;
-
-  &-block {
-    padding-left: 50px;
-
-    @include mobile {
-      padding-left: 15px;
-    }
-  }
-}
-
-.input-wrapper {
-  position: relative;
-
-  button {
-    position: absolute;
-    right: 25px;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-}
-
-.form-control {
-  height: 60px;
-  background: $white;
-  border-radius: 0;
-  padding-left: 25px;
-
-  &:focus {
-    border-color: $primary-color;
-    box-shadow: none;
-  }
-}
-
-.newsletter-block {
-  .form-control {
-    height: 90px;
-  }
-}
-
 .bg-footer {
-  background-color: #182b45;
+  background-color: $black;
 }
 
 .logo-footer {
@@ -217,8 +171,9 @@
 }
 
 .footer {
-  border-color: #494a43 !important;
-  padding-top: 275px;
+  color: white;
+  border-color: rgb(104, 104, 104) !important;
+  padding-top: 100px;
 }
 
 /* /footer */
