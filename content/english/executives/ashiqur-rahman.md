@@ -1,7 +1,7 @@
 ---
 order: 11
 
-title: "Khondoker Ashiqur Rahman"
+title: "Ashiqur Rahman"
 
 draft: false
 

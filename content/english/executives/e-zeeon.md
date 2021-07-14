@@ -1,7 +1,7 @@
 ---
 order: 24
 
-title: "Iftekhar E Mahbub Zeeon"
+title: "Iftekhar Mahbub Zeeon"
 
 draft: false
 

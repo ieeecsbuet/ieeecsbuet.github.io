@@ -1,7 +1,7 @@
 ---
 order: 12
 
-title: "Ajmain Yasar Ahmed Sahil"
+title: "Ajmain Yasar Ahmed"
 
 draft: false
 
