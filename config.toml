@@ -3,7 +3,7 @@ baseURL = "https://ieeecsbuet.web.app"
 title = "IEEE CS | BUET Student Branch Chapter"
 theme = "theme"
 themesDir = "./"
-publishDir = "./public/"
+publishDir = "./docs/"
 # post pagination
 paginate = "6"
 # post excerpt
