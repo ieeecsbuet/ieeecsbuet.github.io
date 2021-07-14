@@ -48,9 +48,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "IEEE Computer Society BUET Student Branch Chapter"
 # contact info
-address = "Bangladesh University of Engineering & Technology"
-mobile = "+211234565523"
-email = "csbuetieee@gmail.com"
+address = "Bangladesh University of Engineering & Technology, West Palashi, Dhaka-1000, Bangladesh"
+# mobile = "+211234565523"
+email = "ieeecsbuetsbc@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
