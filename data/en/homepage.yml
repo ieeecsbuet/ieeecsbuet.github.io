@@ -55,7 +55,7 @@ banner_feature:
 about:
   enable : true
   title : "About Our Chapter"
-  image : "images/banner/banner_0.jpg"
+  image : "images/banner/banner-1.jpg"
   content : "IEEE BUET CS Student Branch chapter is a part of the IEEE Computer Society and strives to achieve international height as the face of IEEE CS in Bangladesh. Since July 15 of 2019, we have been working to educate our students in various sectors of computer science and engineering, hold large scale competitions for them to improve and sharpen each other’s skills."
   button:
     enable : true
@@ -66,6 +66,6 @@ about:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Events"
   # event item comes from "content/**/event" folder.
 
