@@ -1,24 +1,24 @@
 ---
 order: 30
 
-title: "Jaid Monwar Chowdhury"
+title: "Syeda Rifah Tasfia "
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/jaid.jpg"
+image: "images/executives/rifah-tasfia.jpg"
 
-designation: "Publicity Committee Chair"
+designation: "Executive"
 
 contact:
   # contact item loop
-  - name : "jaidmonwar.edu@gmail.com"
+  - name : "tasfia.neha@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:jaidmonwar.edu@gmail.com"
+    link : "mailto:tasfia.neha@gmail.com"
 
   # contact item loop
-  - name : "Jaid Monwar Chowdhury"
+  - name : "Syeda Rifah Tasfia "
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
