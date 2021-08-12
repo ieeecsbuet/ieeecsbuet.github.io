@@ -2,8 +2,8 @@
 baseURL = "https://ieeecsbuet.github.io"
 title = "IEEE CS | BUET Student Branch Chapter"
 theme = "theme"
-themesDir = "./"
-publishDir = "./docs/"
+themesDir = "../"
+publishDir = "../docs/"
 # post pagination
 paginate = "6"
 # post excerpt
