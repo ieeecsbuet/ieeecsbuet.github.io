@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 15
 
-title: "Md. Asif Haider"
+title: "Abid Hasan Khandaker"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/abid-hasan.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Technical Committee Coordinator(s)"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "abidhasan7116@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:abidhasan7116@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Abid Hasan Khandaker"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

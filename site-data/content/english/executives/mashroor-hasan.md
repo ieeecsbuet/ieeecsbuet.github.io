@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 28
 
-title: "Md. Asif Haider"
+title: "Mashroor Hasan Bhuiyan"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/mashroor-hasan.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Organizing Coordinator (Programming Contests)"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "mashroor184@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:mashroor184@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Mashroor Hasan Bhuiyan"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

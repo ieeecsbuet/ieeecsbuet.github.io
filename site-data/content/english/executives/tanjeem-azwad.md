@@ -1,5 +1,5 @@
 ---
-order: 18
+order: 14
 
 title: "Tanjeem Azwad Zaman"
 
@@ -7,9 +7,9 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/tanjeem-azwad.jpg"
+image: "images/executives/tanjeem-azwad.png"
 
-designation: "Technical Committee Coordinator"
+designation: "Technical Committee Chair"
 
 contact:
   # contact item loop

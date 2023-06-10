@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 10
 
-title: "Md. Asif Haider"
+title: "Riad Ahmed Anonto"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/riad-anonto.jpg"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Treasurer"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "riadahmedanonto355@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:riadahmedanonto355@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Riad Ahmed Anonto"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

@@ -1,30 +1,31 @@
 ---
-order: 5
+order: 37
 
-title: "Md. Asif Haider"
+title: "Raihan Rashid"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/raihan.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Executive"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "raihanrsd98@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:raihanrsd@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Raihan Rsd"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
-  - name : "IEEE ID: "
+  # contact item loop
+  - name : "IEEE ID: 94452697"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "#94452697"
 
 # type
 type: "executives"

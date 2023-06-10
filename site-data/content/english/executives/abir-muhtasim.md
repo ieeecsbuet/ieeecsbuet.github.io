@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 21
 
-title: "Md. Asif Haider"
+title: "Abir Muhtasim"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/abir-muhtasim.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Graphics and Design Committee Chair"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "auntor505@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:auntor505@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Tawkir Aziz Rahman"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

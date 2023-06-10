@@ -1,5 +1,5 @@
 ---
-order: 30
+order: 9
 
 title: "Syeda Rifah Tasfia "
 
@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 
 image: "images/executives/rifah-tasfia.jpg"
 
-designation: "Executive"
+designation: "Assistant General Secretary (strategy)"
 
 contact:
   # contact item loop
