@@ -6,10 +6,6 @@
     <description>Recent content in Tags on IEEE CS | BUET Student Branch Chapter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 IEEE CS BUET SB | Theme by [themefisher](https://themefisher.com)</copyright>
-    
-	<atom:link href="https://ieeecsbuet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2021 IEEE CS BUET SB | Theme by [themefisher](https://themefisher.com)</copyright><atom:link href="https://ieeecsbuet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

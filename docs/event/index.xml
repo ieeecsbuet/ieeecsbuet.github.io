@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 IEEE CS BUET SB | Theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ieeecsbuet.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ieeecsbuet.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capture The Flag: Super League</title>
       <link>https://ieeecsbuet.github.io/event/ctf-super-league/</link>
