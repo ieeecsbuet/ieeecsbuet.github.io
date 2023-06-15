@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ieeecsbuet.github.io/event/ctf-super-league/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ieeecsbuet.github.io/event/gamejam-2023/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ieeecsbuet.github.io/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ieeecsbuet.github.io/event/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/event/failing-interviews/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/event/ctf-super-league/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ieeecsbuet.github.io/event/apply-for-higher-studies/</loc>
@@ -33,15 +39,25 @@
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/ataf-fazledin/</loc>
   </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/atika-tabassum-suchi/</loc>
+  </url><url>
     <loc>https://ieeecsbuet.github.io/executives/ayesha-mostofa/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/categories/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/debashis-das-dhruvo/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/dipit-saha/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/sohel-rahman/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/fabiha-tasneem/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/fariha-ifrat/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/farihan-israq-othiya/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/e-zeeon/</loc>
   </url><url>
@@ -59,7 +75,13 @@
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/huzzatun-ali/</loc>
   </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/md-mehedi-hasan-mim/</loc>
+  </url><url>
     <loc>https://ieeecsbuet.github.io/executives/shahrar-fatemi/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/mehedi-khan/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/raihan-rashid/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/muntaka-ibnath/</loc>
   </url><url>
@@ -90,5 +112,7 @@
     <loc>https://ieeecsbuet.github.io/executives/tasin-ishmam/</loc>
   </url><url>
     <loc>https://ieeecsbuet.github.io/executives/tasnim-rahman/</loc>
+  </url><url>
+    <loc>https://ieeecsbuet.github.io/executives/tousif-fahmeed-quadir/</loc>
   </url>
 </urlset>
