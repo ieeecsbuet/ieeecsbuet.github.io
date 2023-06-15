@@ -7,15 +7,15 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/anindya.jpg"
+image: "images/executives/anindya.png"
 
-designation: "Executive"
+designation: "Organizing Coordinator (Development Contests)"
 
 contact:
   # contact item loop
-  - name : "hoque.anindya1@gmail.com"
+  - name : "hoque.anindya2@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:hoque.anindya1@gmail.com"
+    link : "mailto:hoque.anindya2@gmail.com"
 
   # contact item loop
   - name : "Anindya Hoque"

@@ -1,5 +1,5 @@
 ---
-order: 22
+order: 4
 
 title: "Maneesha Rani Saha"
 
@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 
 image: "images/executives/maneesha-saha.jpg"
 
-designation: "Media Committee Coordinator"
+designation: "Vice-Chairperson (Activity)"
 
 contact:
   # contact item loop

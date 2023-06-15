@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 27
 
-title: "Md. Asif Haider"
+title: "Jarin Tasneem Arpita"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/jarin-tasneem.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Publication Committee Coordinator"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "jarintasneem248@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:jarintasneem248@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Jarin Tasnim Arpita"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

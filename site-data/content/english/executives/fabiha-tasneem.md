@@ -1,5 +1,5 @@
 ---
-order: 21
+order: 2
 
 title: "Fabiha Tasneem"
 
@@ -7,9 +7,9 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/fabiha-tasneem.jpg"
+image: "images/executives/fabiha-tasneem.jpeg"
 
-designation: "Publication Committee Coordinator"
+designation: "Chairperson"
 
 contact:
   # contact item loop

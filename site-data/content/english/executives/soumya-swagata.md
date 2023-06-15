@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 18
 
-title: "Md. Asif Haider"
+title: "Soumya Swagata Biswas"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/soumya-swagata.png"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Program Committee Coordinator(s)"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "1905093@ugrad.cse.buet.ac.bd"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:1905093@ugrad.cse.buet.ac.bd"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Soumya Swagata Biswas"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"

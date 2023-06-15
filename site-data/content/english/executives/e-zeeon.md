@@ -1,5 +1,5 @@
 ---
-order: 24
+order: 3
 
 title: "Iftekhar Mahbub Zeeon"
 
@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 
 image: "images/executives/e-zeeon.JPG"
 
-designation: "Graphics & Design Coordinator"
+designation: "Vice-Chairperson (Technical)"
 
 contact:
   # contact item loop

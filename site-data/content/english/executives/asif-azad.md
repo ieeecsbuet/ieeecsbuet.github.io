@@ -1,27 +1,28 @@
 ---
-order: 5
+order: 8
 
-title: "Md. Asif Haider"
+title: "Asif Azad"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/asif-azad.jpg"
 
-designation: "Vice-Chairperson (Strategy)"
+designation: "Assistant General Secretary (Activity)"
 
 contact:
   # contact item loop
-  - name : "elhanasif8@gmail.com"
+  - name : "asifazad0178@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:elhanasif8@gmail.com"
+    link : "mailto:asifazad0178@gmail.com"
 
   # contact item loop
-  - name : "Asif Haider"
+  - name : "Asif Azad"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
   - name : "IEEE ID: "
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"
