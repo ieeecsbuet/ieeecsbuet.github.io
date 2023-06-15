@@ -18,7 +18,7 @@ contact:
     link : "mailto:raihanrsd@gmail.com"
 
   # contact item loop
-  - name : "Raihan Rsd"
+  - name : "Raihan Rashid"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
