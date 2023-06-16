@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/md-mehedi-hasan-mim.jpg"
+image: "images/executives/md-mehedi-hasan-mim.webp"
 
 designation: "Graphics and Design Committee Coordinator"
 

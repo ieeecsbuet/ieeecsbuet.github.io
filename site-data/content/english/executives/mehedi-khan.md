@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/mehedi-khan.jpg"
+image: "images/executives/mehedi-khan.webp"
 
 designation: "Executive"
 

@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/sohel-sir.jpg"
+image: "images/executives/sohel-sir.webp"
 
 designation: "Chapter Advisor"
 

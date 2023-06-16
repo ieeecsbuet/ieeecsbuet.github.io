@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/mehreen-tabassum.jpg"
+image: "images/executives/mehreen-tabassum.webp"
 
 designation: "Program Committee Coordinator(s)"
 

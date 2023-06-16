@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/tawkir-aziz.png"
+image: "images/executives/tawkir-aziz.webp"
 
 designation: "Graphics and Design Committee Coordinator(s)"
 

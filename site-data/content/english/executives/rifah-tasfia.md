@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/rifah-tasfia.jpg"
+image: "images/executives/rifah-tasfia.webp"
 
 designation: "Assistant General Secretary (strategy)"
 

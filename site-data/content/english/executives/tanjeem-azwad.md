@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/tanjeem-azwad.png"
+image: "images/executives/tanjeem-azwad.webp"
 
 designation: "Technical Committee Chair"
 

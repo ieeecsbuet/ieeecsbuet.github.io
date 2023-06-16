@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/debashis-das-dhruvo.jpg"
+image: "images/executives/debashis-das-dhruvo.webp"
 
 designation: "Executive"
 

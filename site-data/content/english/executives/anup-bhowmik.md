@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/anup-bhowmik.jpg"
+image: "images/executives/anup-bhowmik.webp"
 
 designation: "Graphics & Design Coordinator"
 

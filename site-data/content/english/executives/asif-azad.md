@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-azad.jpg"
+image: "images/executives/asif-azad.webp"
 
 designation: "Assistant General Secretary (Activity)"
 

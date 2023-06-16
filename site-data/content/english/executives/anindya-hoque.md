@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/anindya.png"
+image: "images/executives/anindya.webp"
 
 designation: "Organizing Coordinator (Development Contests)"
 

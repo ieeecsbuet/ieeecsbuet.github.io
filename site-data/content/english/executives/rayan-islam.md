@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/rayan-islam.png"
+image: "images/executives/rayan-islam.webp"
 
 designation: "Publicity Committee Chair"
 

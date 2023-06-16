@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/fahad-ahmed.png"
+image: "images/executives/fahad-ahmed.webp"
 
 designation: "Media Committee Coordinator"
 

@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/gfz-suvro.png"
+image: "images/executives/gfz-suvro.webp"
 
 designation: "Media Committee Chair"
 

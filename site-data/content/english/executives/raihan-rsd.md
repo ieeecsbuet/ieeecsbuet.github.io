@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/raihan.png"
+image: "images/executives/raihan.webp"
 
 designation: "Executive"
 

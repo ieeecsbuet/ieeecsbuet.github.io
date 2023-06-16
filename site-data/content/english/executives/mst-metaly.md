@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/mst-metaly.png"
+image: "images/executives/mst-metaly.webp"
 
 designation: "Program Committee Coordinator(s)"
 

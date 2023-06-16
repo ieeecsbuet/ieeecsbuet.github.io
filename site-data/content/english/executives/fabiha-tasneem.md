@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/fabiha-tasneem.jpeg"
+image: "images/executives/fabiha-tasneem.webp"
 
 designation: "Chairperson"
 

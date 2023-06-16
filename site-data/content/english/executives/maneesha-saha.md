@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/maneesha-saha.jpg"
+image: "images/executives/maneesha-saha.webp"
 
 designation: "Vice-Chairperson (Activity)"
 

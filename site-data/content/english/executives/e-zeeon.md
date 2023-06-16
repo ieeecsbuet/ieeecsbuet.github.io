@@ -1,13 +1,13 @@
 ---
 order: 3
 
-title: "Iftekhar Mahbub Zeeon"
+title: "Iftekhar E Mahbub Zeeon"
 
 draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/e-zeeon.JPG"
+image: "images/executives/e-zeeon.webp"
 
 designation: "Vice-Chairperson (Technical)"
 
