@@ -16,7 +16,7 @@ This website has been built with Hugo along with Educenter theme. The project fo
 
 ## Contributing Guidelines
 
-It's great to see you interested in contributing to the website of IEEE CS Buet. This website with built with Hugo. You just have to create Markdown files to generate more pages. Nothing else needs to be touched. The 'doc' folder contains all the html files, which are taken care of by Hugo. As a developer, all you need to care about is the Markdown files.
+It's great to see you interested in contributing to the website of IEEE CS Buet. This website was built with Hugo. You just have to create Markdown files to generate more pages. Nothing else needs to be touched. The 'doc' folder contains all the html files, which are taken care of by Hugo. As a developer, all you need to care about is the Markdown files.
 
 #### Run the site in your local machine
 To run the site in your local machine, follow these steps:
@@ -32,7 +32,7 @@ hugo server
 - The website should be running in your localhost now.
 
 #### Applying changes
-The website will change if you change any markdown file. However, to bring the changes in the production environment,
+The website will change locally if you change any markdown file. However, to bring the changes in the production environment,
 the changes need to be present in the doc file. So navigate into the folder conaining the 'config.toml' file again and run the following command
 ```
 hugo
@@ -48,7 +48,7 @@ PR without much difficulties.
 If you follow these, you should have a successful pull request with your changes. Happy contributing.
 
 #### deploy.sh
-This shell commands builds the site, adds new commit and pushes to remote. If you're not comfortable with pushing your commits
+This shell command builds the site, adds new commit and pushes to remote. If you're not comfortable with pushing your commits
 using git commands, you can use this instead.
 
 ```sh
