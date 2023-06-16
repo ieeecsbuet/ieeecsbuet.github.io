@@ -29,7 +29,8 @@ To run the site in your local machine, follow these steps:
 ```
 hugo server
 ```
-- The website should be running in your localhost now.
+- Open your localhost link in the terminal in your browser.
+The website should be running in your localhost now.
 
 #### Applying changes
 The website will change locally if you change any markdown file. However, to bring the changes in the production environment,
