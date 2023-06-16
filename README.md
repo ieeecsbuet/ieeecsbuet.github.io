@@ -29,7 +29,7 @@ To run the site in your local machine, follow these steps:
 ```
 hugo server
 ```
-- Open your localhost link in the terminal in your browser.
+- Open the localhost link from the terminal in your browser.
 
 The website should be running in your localhost now.
 
