@@ -18,7 +18,7 @@ contact:
     link : "mailto:mrtazwar23@gmail.com"
 
   # contact item loop
-  - name : "Tawkir Aziz Rahman"
+  - name : "Mostafa Rifat"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 

@@ -18,7 +18,7 @@ contact:
     link : "mailto:auntor505@gmail.com"
 
   # contact item loop
-  - name : "Tawkir Aziz Rahman"
+  - name : "Abir Muhtasim"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
