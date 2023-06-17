@@ -13,9 +13,9 @@ designation: "Executive"
 
 contact:
   # contact item loop
-  - name : "lopingcard5@gmail.com"
+  - name : "lopingcard@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:lopingcard5@gmail.com"
+    link : "mailto:lopingcard@gmail.com"
 
   # contact item loop
   - name : "Mehedi Khan"

@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 
 image: "images/executives/rifah-tasfia.webp"
 
-designation: "Assistant General Secretary (strategy)"
+designation: "Assistant General Secretary (Strategy)"
 
 contact:
   # contact item loop
