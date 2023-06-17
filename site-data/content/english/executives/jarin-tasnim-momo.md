@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/jarin-tasnim-momo.jpg"
+image: "images/executives/jarin-tasnim-momo.webp"
 
 designation: "Technical Committee Coordinator(s)"
 

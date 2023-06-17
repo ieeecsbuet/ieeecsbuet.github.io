@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/farihan-israq-othiya.jpeg"
+image: "images/executives/farihan-israq-othiya.webp"
 
 designation: "Executive"
 

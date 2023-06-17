@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/tousif-fahmeed-quadir.jpg"
+image: "images/executives/tousif-fahmeed-quadir.webp"
 
 designation: "Executive"
 

@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/dipit-saha.jpg"
+image: "images/executives/dipit-saha.webp"
 
 designation: "Executive"
 

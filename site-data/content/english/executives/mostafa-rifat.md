@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/mostafa-rifat.png"
+image: "images/executives/mostafa-rifat.webp"
 
 designation: "Graphics and Design Committee Coordinator(s)"
 
@@ -18,7 +18,7 @@ contact:
     link : "mailto:mrtazwar23@gmail.com"
 
   # contact item loop
-  - name : "Mostafa Rifat"
+  - name : "Mostafa Rifat Tazwar"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 

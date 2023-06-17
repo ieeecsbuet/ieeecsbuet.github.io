@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/jarin-tasneem.png"
+image: "images/executives/jarin-tasneem.webp"
 
 designation: "Publication Committee Coordinator"
 

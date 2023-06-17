@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/atika-tabassum-suchi.jpg"
+image: "images/executives/atika-tabassum-suchi.webp"
 
 designation: "Executive"
 

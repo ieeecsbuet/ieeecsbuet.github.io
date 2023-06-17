@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/e-zeeon.JPG"
+image: "images/executives/e-zeeon.webp"
 
 designation: "Vice-Chairperson (Technical)"
 

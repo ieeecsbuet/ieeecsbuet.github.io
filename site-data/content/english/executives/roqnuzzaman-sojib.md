@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/rq-sojib.jpg"
+image: "images/executives/rq-sojib.webp"
 
 designation: "Program Committee Chair"
 

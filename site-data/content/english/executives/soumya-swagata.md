@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/soumya-swagata.png"
+image: "images/executives/soumya-swagata.webp"
 
 designation: "Program Committee Coordinator(s)"
 

@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/farhan-tahmid.png"
+image: "images/executives/farhan-tahmid.webp"
 
 designation: "Publicity Committee Chair"
 

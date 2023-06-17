@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/zaki-rehnoom.png"
+image: "images/executives/zaki-rehnoom.webp"
 
 designation: "Executive"
 

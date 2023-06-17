@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/asif-haider.jpg"
+image: "images/executives/asif-haider.webp"
 
 designation: "Vice-Chairperson (Strategy)"
 

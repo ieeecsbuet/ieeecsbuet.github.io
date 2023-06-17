@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/fariha-ifrat.jpg"
+image: "images/executives/fariha-ifrat.webp"
 
 designation: "Executive"
 

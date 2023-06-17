@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/shahriar-raj.jpg"
+image: "images/executives/shahriar-raj.webp"
 
 designation: "General Secretary"
 

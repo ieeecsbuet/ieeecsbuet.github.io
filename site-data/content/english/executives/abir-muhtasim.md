@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/abir-muhtasim.png"
+image: "images/executives/abir-muhtasim.webp"
 
 designation: "Graphics and Design Committee Chair"
 

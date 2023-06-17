@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/tanvir-saad.png"
+image: "images/executives/tanvir-saad.webp"
 
 designation: "Assistant General Secretary (Technical)"
 

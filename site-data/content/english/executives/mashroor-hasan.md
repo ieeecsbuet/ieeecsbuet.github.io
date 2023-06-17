@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/mashroor-hasan.png"
+image: "images/executives/mashroor-hasan.webp"
 
 designation: "Organizing Coordinator (Programming Contests)"
 

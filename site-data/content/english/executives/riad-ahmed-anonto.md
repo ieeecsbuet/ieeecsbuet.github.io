@@ -7,7 +7,7 @@ draft: false
 
 bg_image: "images/backgrounds/page-title.jpg"
 
-image: "images/executives/riad-anonto.jpg"
+image: "images/executives/riad-anonto.webp"
 
 designation: "Treasurer"
 
